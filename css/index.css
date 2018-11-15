@@ -1,0 +1,15 @@
+.nav-top {
+  background-color: #000000;
+  width: 100%;
+}
+.nav-top a {
+  font-weight: bold;
+  color: #ffffff;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+.nav-top a:hover {
+  background-color: #777777;
+}
