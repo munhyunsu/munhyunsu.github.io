@@ -1,3 +1,5 @@
+# reference files
+ref/
 # vim
 *.swp
 # venv

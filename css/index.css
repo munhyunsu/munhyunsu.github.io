@@ -1,0 +1,15 @@
+.item-header {
+  color: #009688;
+}
+
+.post-item {
+  padding: 0.01em 16px;
+  float: left;
+  width: 66.6%;
+}
+.post-image{
+  float: left;
+  width: auto;
+  border: 1px solid;
+  padding: 12px 24px;
+}
