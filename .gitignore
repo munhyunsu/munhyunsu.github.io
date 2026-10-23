@@ -7,3 +7,6 @@ ref/
 # venv
 venv/
 __pycache__/
+
+# local script, not the page
+scripts/
