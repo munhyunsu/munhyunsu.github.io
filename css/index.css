@@ -15,6 +15,7 @@ a:hover {
   float: left;
   width: 94.9%;
   line-height: 1.6;
+  overflow-wrap: break-word;
 }
 
 .post-image{
